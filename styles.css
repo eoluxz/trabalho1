@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: black;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.botao {
+    text-decoration: none;
+    color: white;
+}
+
+.bot {
+    color: white;
+}
+
+.imagem1 {
+    padding-left: 10px;
+    
+}
+
+
+body {
+    background-color: #353535;
+}
